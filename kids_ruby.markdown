@@ -27,4 +27,5 @@
   * LXDE Desktop
 * Program or be Programmed
 * If you wanna hire programmers in 10 year, you better train them today
+* Don't wait, do it now!
 
