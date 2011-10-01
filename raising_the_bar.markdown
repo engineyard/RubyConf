@@ -20,6 +20,7 @@
   * Public API
   * X.Y.Z
   * Immutable
+  * [Version](https://github.com/stouset/version)
 * Don't bump versions when submitting pull requests
 
 ## State of the Ecosystem
